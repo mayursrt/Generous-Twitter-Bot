@@ -16,4 +16,5 @@ How to use:<br>
 <li>Enter your authentication codes in the script.</li>
 <li>Run the script, doesn't matter wherever you run it.</li>
 </ol>
+You can tweak the script as per requirement by following the tweepy documentation (http://docs.tweepy.org/en/latest/getting_started.html)<br>
 Note: If you get an error regarding Write policies, don't forget to change your bot configurations in settings and change app permissions to 'Read + Write + Read and post direct messages'<br>
