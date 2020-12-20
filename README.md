@@ -5,12 +5,14 @@ This is a Twitter bot that allows you to automatically follow back people who fo
 You don't even need to log in to Twitter to do that, instead this bot will do it for you.<br>
 <br>
 How to use:<br>
-This requires Twitter API. Without it, the bot won't work.<br>
-Twitter API is available for free on Twitter, you just need to Apply for it.<br>
-After Applying you need to Fill in some information and thats all.<br>
-You need to create and configure the API from dashboard.<br>
-You will get the authentication keys once everything is done.<br>
-For more information on Twitter API visit https://developer.twitter.com/en/docs/getting-started<br>
-Enter your authentication codes in the script.<br>
-Run the script, doesn't matter wherever you run it.<br>
+<ol>
+<li>This requires Twitter API. Without it, the bot won't work.</li>
+<li>Twitter API is available for free on Twitter, you just need to Apply for it.</li>
+<li>After Applying you need to Fill in some information and thats all.</li>
+<li>You need to create and configure the API from dashboard.</li>
+<li>You will get the authentication keys once everything is done.</li>
+<li>For more information on Twitter API visit https://developer.twitter.com/en/docs/getting-started</li>
+<li>Enter your authentication codes in the script.</li>
+<li>Run the script, doesn't matter wherever you run it.</li>
+</ol>
 Note: If you get an error regarding Write policies, don't forget to change your bot configurations in settings and change app permissions to 'Read + Write + Read and post direct messages'<br>
