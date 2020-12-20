@@ -12,6 +12,7 @@ How to use:<br>
 <li>You need to create and configure the API from dashboard.</li>
 <li>You will get the authentication keys once everything is done.</li>
 <li>For more information on Twitter API visit https://developer.twitter.com/en/docs/getting-started</li>
+<li>Install necessary Packages. (Tweepy http://docs.tweepy.org/en/latest/getting_started.html)</li>
 <li>Enter your authentication codes in the script.</li>
 <li>Run the script, doesn't matter wherever you run it.</li>
 </ol>
